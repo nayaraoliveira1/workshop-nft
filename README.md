@@ -9,8 +9,9 @@
 <br>
 ## Projeto HTML + CSS Avançado 
 
-Projeto criado durante o curso DevQuest do Frontend Mentor.
-
+Projeto criado do Frontend Mentor durante o curso DevQuest. 
+<br>
+Na segunda imagem você consegue observar que a imagem do projeto muda quando o mouse é passado por cima dela.
 <br>
 
 
