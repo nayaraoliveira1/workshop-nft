@@ -4,7 +4,7 @@
 <br>
 <br>
 ##📌 Projeto pronto:
-![preview](https://github.com/nayaraoliveira1/workshop-nft/blob/583b9716bc86d6315a93e8dc759147ddcaf5ea59/image/Captura%20de%20tela%202023-02-28%20200623.png)
+![preview](image/Captura de tela 2023-02-28 200623.png)
 
 <br>
 ## 📌 Quando é passado o mouse em cima da imagem:
